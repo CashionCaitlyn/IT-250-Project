@@ -3,6 +3,9 @@ The Sleuth Kit project includes infromation about The Sleuth Kit and Digital For
 My goal is to not only allow myself to gather a better understanding on how to use The Sleuth Kit, but to also help others use basic commands and have a better understanding on what is displayed when said commands are used. 
 
 Another assignment attached is the analysis of wireshark. It displays my understanding of wireshark and how to capture, view, and analyze packets.
+
 The assignment includes:
 
-  Using display-filter-specificaton, analyzing transport protocols, and searching for port numbers 
+  Using display-filter-specificaton (DNS, ICMP, ARP, HTTP), analyzing transport protocols, and searching for port numbers 
+
+  
